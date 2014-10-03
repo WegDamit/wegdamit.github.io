@@ -125,3 +125,4 @@ Und dann in fontconfig _/etc/fonts/conf.avail/10-powerline-symbols.conf_ den unt
 </fontconfig>
 
 ```
+
