@@ -5,11 +5,15 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: true
 
+markdown: kramdown
+kramdown:
+  use_coderay: true
+
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
 title : WegDamits Blog
-tagline: Site Tagline
+tagline: Was denn?
 author :
   name : Weg Damit
   email : wegdamit@gmail.com
