@@ -1,6 +1,6 @@
 ---
 layout: post
-category : test
+category : Gnome
 tagline: "Gnome Shell activity overview"
 tags : [Gnome, GnomeShell, hack]
 ---
@@ -13,6 +13,6 @@ Ist zwar Standard Verhalten, aber in der Sytemeinstellug -> Tastatur ist immer n
 
 Aber so sollte es gehen:
 
-in der dconf setting then key  _org.gnome.mutter.overlay-key_ auf den Wert _Super_L_ setzen.
+In der dconf setting then key  _org.gnome.mutter.overlay-key_ auf den Wert _Super_L_ setzen.
 
 Ist aber noch nicht getestet...
