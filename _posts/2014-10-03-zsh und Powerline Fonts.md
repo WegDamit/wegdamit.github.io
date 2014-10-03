@@ -17,7 +17,7 @@ _/usr/share/fonts/opentype/PowerlineSymbols/PowerlineSymbols.otf_ kopieren.
 
 Und dann in fontconfig _/etc/fonts/conf.avail/10-powerline-symbols.conf_ den unten angegeben Inhalt einfügen und die Datei nach _/etc/fonts/conf.d/_ linken.
 
-```xml
+{% highlight xml %}
 <?xml version="1.0"?>
 <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
 
@@ -124,5 +124,6 @@ Und dann in fontconfig _/etc/fonts/conf.avail/10-powerline-symbols.conf_ den unt
     </alias>
 </fontconfig>
 
-```
+{% endhighlight %}
+
 
