@@ -2,7 +2,7 @@
 layout: post
 category : shell
 tagline: "Gnome Shell activity overview"
-tags : [Gnome, GnomeShell, hack]
+tags : [zsh, fonts, hack]
 ---
 {% include JB/setup %}
 
