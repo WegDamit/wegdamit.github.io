@@ -12,6 +12,7 @@ tags : [Gnome, GnomeShell, hack]
 ## Aktuell
 
 * Gnome Shell und GTK3: [Vold](http://www.deviantart.com/art/Vold-formerly-Numoka-Theme-464749246)
+* Fenster: [siva flat darkest](http://nale12.deviantart.com/art/Siva-Flat-1-3-0-353499016)
 * Icons: [Moka](http://mokaproject.com/moka-icon-theme/) und [faba](http://mokaproject.com/faba-icon-theme/)
 
 ## Auch Sehr beliebt
