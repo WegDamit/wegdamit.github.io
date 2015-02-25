@@ -1,4 +1,4 @@
-y---
+---
 layout: post
 category : shell
 tagline: "Gnome Shell activity overview"
